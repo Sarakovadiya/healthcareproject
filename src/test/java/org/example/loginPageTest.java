@@ -1,8 +1,7 @@
 package org.example;
 
 import org.openqa.selenium.WebDriver;
-import org.ogit add .
-        penqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.annotations.AfterTest;
 import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
